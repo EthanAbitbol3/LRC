@@ -1,5 +1,4 @@
-# LRC
-Ecriture en Prolog d’un démonstrateur basé sur  l’algorithme  des tableaux pour la logique de description ALC
+# Ecriture en Prolog d’un démonstrateur basé sur  l’algorithme  des tableaux pour la logique de description ALC
 
 Dans ce projet nous allons écrire à l’aide de prolog un démonstrateur basé sur l’algorithme des tableaux pour la
 logique de description ALC.
